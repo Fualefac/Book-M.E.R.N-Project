@@ -1,2 +1,2 @@
-# Book M.E.R.N Project
- MERN Stack project
+Simple MERN project that allows to add,edit and delete books. 
+
